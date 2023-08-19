@@ -16,6 +16,7 @@
 */
 
 const ambilJudul = document.getElementById("judul"); 
+
 console.log(ambilJudul);// mengembalikan nilai 1 element
 
 // mengubah warna tulisan, 
