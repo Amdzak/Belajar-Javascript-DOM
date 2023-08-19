@@ -48,6 +48,7 @@ function gantiwarna() {
     judul.style.backgroundColor = "lightgreen"
 }
 
+// menggunakan addEventListener
 const p4 = document.querySelector("section#b p")
 
 p4.addEventListener("click",function(){
